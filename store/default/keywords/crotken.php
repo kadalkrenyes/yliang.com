@@ -1,0 +1,20 @@
+<?php
+require '../top-india.php';
+require '../coming-soon-us.php';
+require '../hot-tracks.php';
+require '../hot-tracks-us.php';
+require '../new-releases.php';
+require '../new-releases-us.php';
+require '../topalbum.php';
+require '../topalbum-us.php';
+require '../topsong.php';
+require '../topsong-us.php';
+require '../coming-soon-kr.php';
+require '../coming-soon-za.php';
+require '../hot-tracks-kr.php';
+require '../hot-tracks-za.php';
+require '../new-releases-kr.php';
+require '../new-releases-za.php';
+require '../topalbum-za.php';
+require '../topsong-kr.php';
+require '../topsong-za.php';
